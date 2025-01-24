@@ -1,1 +1,4 @@
 # moiz
+afaq
+farhan
+jummah
